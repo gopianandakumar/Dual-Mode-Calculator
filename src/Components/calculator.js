@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import CalculatorTile from './calculatorTile'
 import OutputScreen from './outputScreen'
-import Button from './Button'
+import Button from './button'
 
 
 
